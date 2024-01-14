@@ -1,0 +1,20 @@
+{
+  "short_name": "Application des taches",
+  "name": "Application des taches",
+  "icons": [
+    {
+      "src": "favicon/tasks.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon/tasks.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
